@@ -1,7 +1,7 @@
-# DiffusionImageDenoising
+# Diffusion Model Applications for Image Denoising
 Bachelor Thesis: Diffusion Model Formulation for Image Denoising: applications in Medical Imaging 
 
-This directory contains:
+This directory contains: 
 - the final report
 - code for diffusion BM3D and benchmarks on the BSD68 dataset (Unsupervised Denoising)
 - code and benchmarks for the Diffusion UNET model on the BSD68 Dataset (Supervised Denoising)
